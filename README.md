@@ -1,1 +1,0 @@
-# A-SQL-Based-Database-Management-System-for-E-commerce-Website-
